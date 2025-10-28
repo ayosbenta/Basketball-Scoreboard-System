@@ -1,0 +1,5 @@
+{
+  "name": "HoopsHub: Basketball Scoreboard System",
+  "description": "A comprehensive basketball record and scoreboard system to manage leagues, teams, players, and games with real-time updates and statistics. Features different dashboards for various user roles and an AI-powered MVP selection.",
+  "requestFramePermissions": []
+}
